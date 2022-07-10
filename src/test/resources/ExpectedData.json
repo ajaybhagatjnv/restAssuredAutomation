@@ -1,0 +1,9 @@
+{
+  "MyFirstClass": {
+    "status": "OK",
+    "place_id": "NOT_NULL",
+    "scope": "APP",
+    "reference": "NOT_NULL",
+    "id": "NOT_NULL"
+  }
+}
